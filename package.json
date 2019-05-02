@@ -1,0 +1,18 @@
+{
+  "name": "robotwars",
+  "version": "1.0.0",
+  "description": "RobotWars code test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jasmine"
+  },
+  "author": "Andrew O'Connor",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  },
+  "dependencies": {
+    "memorystream": "^0.3.1"
+  }
+}
